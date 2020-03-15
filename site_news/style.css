@@ -1,0 +1,51 @@
+.top-header {
+    background-color: blue;
+    height: 200px;
+}
+
+body {
+    background-color: #fcfc9d;
+}
+
+.navbar-expand-sm {
+    background-color: #6ac3e4;
+    height: 75px;
+}
+
+.first-nav {
+    width: 400px;
+    height: 75px;
+    margin-left: 125px;
+    font-size: 45px;
+    text-align: center;
+}
+
+.second-nav {
+    width: 400px;
+    height: 75px;
+    font-size: 44px;
+    text-align: center;
+}
+
+.third-nav {
+    width: 400px;
+    height: 75px;
+    font-size: 45px;
+    text-align: center;
+    margin-left: 70px;
+}
+
+.forest-nav {
+    width: 400px;
+    height: 75px;
+    font-size: 45px;
+    text-align: center;
+    margin-right: 125px;
+}
+
+.create-news {
+    width: 1070px;
+    height: 675px;
+    background-color: #42d7bc;
+    margin-top: 100px;
+}
