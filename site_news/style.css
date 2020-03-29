@@ -1,4 +1,5 @@
 .top-header {
+    width: 100%;
     background-color: blue;
     height: 200px;
 }
@@ -143,18 +144,72 @@ body {
     float: right;
 }
 
-.newsnormalmodel{
+.newsnorm1{
     width: 800px;
-    height: 1600px;
+    height: 1000px;
     background-color: #6ac3e4;
     margin-left: 125px;
     margin-top: 20px;
 }
 
-.newsimportantmodel{
+.newsimp1{
     width: 800px;
-    height: 1600px;
+    height: 1000px;
     background-color: #6ac3e4;
     margin-right: 125px;
     margin-top: 20px;
+}
+
+.NZ1{
+    margin-top:48px;
+    color:white;
+    height: 75px;
+    text-align: center;
+    font-size: 43px;
+}
+
+.IZ1{
+    margin-top:48px;
+    color:white;
+    height: 75px;
+    text-align: center;
+    font-size: 43px;
+}
+
+.NC1{
+    margin-top:48px;
+    color:white;
+    width: 600px;
+    font-size: 43px;
+    background-color: #b9b9b9;
+    margin-left: 80px;
+}
+
+.IC1{
+    margin-top:48px;
+    color:white;
+    width: 600px;
+    font-size: 43px;
+    background-color: #b9b9b9;
+    margin-left: 80px;
+}
+
+.NIMG1{
+    margin-top:50px;
+    margin-left:25%;
+    width: 400px;
+    height: 400px;
+}
+.IIMG1{
+    margin-top:50px;
+    margin-left:25%;
+    width: 400px;
+    height: 400px;
+}
+
+.NB1{
+    margin-top:12px;
+}
+.IB1{
+    margin-top:12px;
 }
