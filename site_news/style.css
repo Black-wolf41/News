@@ -151,7 +151,6 @@ body {
     margin-left: 125px;
     margin-top: 20px;
 }
-
 .newsimp1{
     width: 800px;
     height: 1000px;
@@ -159,6 +158,20 @@ body {
     margin-right: 125px;
     margin-top: 20px;
 }
+.long{
+    height: 1960px;
+}
+.advertising{
+    font-size: 20px;
+    margin-left:50px;
+    text-align:center;
+    width: 700px;
+    margin-top:20px;
+    color:white;
+    background-color: goldenrod;
+
+}
+
 
 .NZ1{
     margin-top:48px;
@@ -197,19 +210,21 @@ body {
 .NIMG1{
     margin-top:50px;
     margin-left:25%;
-    width: 400px;
-    height: 400px;
+    width: 410px;
+    height: 410px;
 }
 .IIMG1{
     margin-top:50px;
     margin-left:25%;
-    width: 400px;
-    height: 400px;
+    width: 410px;
+    height: 410px;
 }
 
 .NB1{
-    margin-top:12px;
+    margin-bottom:0px;
+    float:right;
 }
 .IB1{
-    margin-top:12px;
+    margin-bottom:0px;
+    float:right;
 }
